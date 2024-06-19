@@ -1,6 +1,6 @@
-<img src="src/assets/traveling-gallery.png" alt="Traveling Gallery" />
+<img src="src/assets/traveling-gallery.jpg" alt="Traveling Gallery" />
 
-## Elegant shop App
+## Traveling Gallery App
 This app based on React JS. (Handling Side Effects & Working with the useEffect() Hook)
 
 ## Install
